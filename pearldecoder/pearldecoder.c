@@ -245,7 +245,7 @@ void SensorInterrupt (void)
 
 int main (void)
 {
-	printf("Decoder for NC-7367-675 Pearl Tempreture Sensor 433MHz\n");
+	printf("Decoder V0.5 for NC-7367-675 Pearl Tempreture Sensor 433MHz\n");
 	printf("by Marc Burkhardt ");
 	printf("powered by wirinPi ");
 	printf("GNU Licence\n\n");
