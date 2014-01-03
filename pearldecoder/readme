@@ -1,0 +1,18 @@
+
+pearldecoder README
+===============
+
+Please note that the official way to get pearldecoder is via git from
+GitHub.
+
+ie.
+
+  git clone git://
+
+
+
+To build just type make.
+
+Thanks!
+
+  -hugofisch
